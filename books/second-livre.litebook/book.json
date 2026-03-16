@@ -1,0 +1,19 @@
+{
+  "title": "Mon Livre Markdown",
+  "author": "Auteur",
+  "entry": "chapters/intro.md",
+  "toc": [
+    {
+      "title": "Introduction",
+      "file": "chapters/intro.md"
+    },
+    {
+      "title": "Installation",
+      "file": "chapters/installation.md"
+    },
+    {
+      "title": "Architecture",
+      "file": "chapters/architecture.md"
+    }
+  ]
+}

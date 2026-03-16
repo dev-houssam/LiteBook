@@ -1,0 +1,23 @@
+{
+  "name": "litebook-reader",
+  "version": "0.1.0",
+  "description": "Desktop Markdown book reader with AI-ready LiteBook format",
+  "main": "electron/main.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "electron": "electron ."
+  },
+  "dependencies": {
+    "highlight.js": "^11.9.0",
+    "markdown-it": "^14.0.0",
+    "vue": "^3.4.0",
+    "vue-router": "^5.0.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "electron": "^30.0.0",
+    "vite": "^5.0.0"
+  }
+}

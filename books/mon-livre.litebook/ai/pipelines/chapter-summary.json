@@ -1,0 +1,12 @@
+{
+  "steps": [
+    {
+      "type": "prompt",
+      "file": "prompts/summarize.md"
+    },
+    {
+      "type": "postprocess",
+      "format": "markdown"
+    }
+  ]
+}

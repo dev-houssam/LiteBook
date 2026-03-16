@@ -1,0 +1,29 @@
+{
+  "title": "ZenVeysa — L'Éveil du Code",
+  "author": "Houssam Bacar",
+
+  "entry": "chapters/01-introduction.md",
+
+  "toc": [
+    {
+      "title": "🌌 Introduction",
+      "file": "chapters/01-introduction.md"
+    },
+    {
+      "title": "🧬 Les Origines de ZenVeysa",
+      "file": "chapters/02-origines.md"
+    },
+    {
+      "title": "🕶️ Hexadeximo",
+      "file": "chapters/03-hexadeximo.md"
+    },
+    {
+      "title": "🚀 Le Destin de ZenVeysa",
+      "file": "chapters/04-destin.md"
+    }
+  ],
+
+  "ai": {
+    "skills": "ai/skills.json"
+  }
+}

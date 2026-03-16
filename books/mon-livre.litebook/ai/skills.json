@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+
+  "skills": [
+    {
+      "id": "chapter-summary",
+      "name": "Résumé du chapitre",
+      "pipeline": "pipelines/chapter-summary.json",
+      "scope": "chapter"
+    },
+
+    {
+      "id": "book-summary",
+      "name": "Résumé du livre",
+      "pipeline": "pipelines/book-summary.json",
+      "scope": "book"
+    },
+
+    {
+      "id": "explain-section",
+      "name": "Expliquer une section",
+      "prompt": "prompts/explain.md",
+      "scope": "selection"
+    }
+  ]
+}
