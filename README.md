@@ -1,6 +1,8 @@
 # LiteBook
 
 ![LiteBook Screenshot](screenshot.png)
+
+
 LiteBook — a lightweight Markdown book engine to read, create and distribute portable .litebook books.
 
 The project provides a complete environment for working with Markdown-based books, including a reader, an editor, and a portable archive format. LiteBook focuses on simplicity, readability, and long-term maintainability of written content.
